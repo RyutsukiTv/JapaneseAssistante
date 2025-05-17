@@ -1,4 +1,4 @@
-# JapaneseAssistante
+# Custom GPT Assistance
 
 Petit project de weeb qui connect Chatgpt DeepL, discord et VoiceVox pour creer une assistante vocal
 
